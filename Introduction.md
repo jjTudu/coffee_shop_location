@@ -22,6 +22,6 @@ Considering  all above problems, we can create a map and information chart where
 #### A.2. Data Description
 
 - Look for places where population density is more relative to other place in same district and are present in commercial or market area.
-- Look for the neighboring business unit, total coffee shops nearby, parks, theaters and other large footfall commercial/entertainment units type.
+- Look for the neighboring business unit, total coffee shops nearby, parks, theaters and other large footfall commercial/entertainment units type. Will use GET **https://api.foursquare.com/v2/venues/search**
 - Analyses the minimum distance to reach the coffee soap location from nearby business units.
 
