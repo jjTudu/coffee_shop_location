@@ -5,13 +5,13 @@ Being such a dense city, Opening a coffee shop can be extremely profitable if yo
 </br>
 Three most important things to consider when selecting a coffee location are:       
 ##### Demographics: 
+We need to understand why coffee shops are so popular. First of all, coffee shops are great places to socialize. Coffee shops are the most popular place to meet friends. They are also a preferred spot for individuals looking to pass the time reading a book, magazine, surfing the web while enjoying a beverage and snack. It is also a popular place for informal business meetings or for students. Geographical location for any business units are same as coffee, relatively crucial point for making or breaking of profitable business.   
+##### Neighboring businesses:
+When you’re determining the best location for a coffee shop, neighboring businesses can also affect your profitability — both negatively and positively.
+It might be obvious to research other local coffee shops to find out where they are established and the total count in your selected location. Neighboring businesses can also help your coffee shop by complementing your offerings. University, Shopping malls ,Theaters, Stadium,  Metro station or other business units where the footprints count are in large numbers would be your best neighborhood to establish your unit.
 
 
-    We need to understand why coffee shops are so popular. First of all, coffee shops are great places to socialize. Coffee shops are the most popular place to meet friends. They are also a preferred spot for individuals looking to pass the time reading a book, magazine, surfing the web while enjoying a beverage and snack. It is also a popular place for informal business meetings or for students. Geographical location for any business units are same as coffee, relatively crucial point for making or breaking of profitable business.   
-###### Neighboring businesses:
-<p>When you’re determining the best location for a coffee shop, neighboring businesses can also affect your profitability — both negatively and positively.
-It might be obvious to research other local coffee shops to find out where they are established and the total count in your selected location. Neighboring businesses can also help your coffee shop by complementing your offerings. University, Shopping malls ,Theaters, Stadium,  Metro station or other business units where the footprints count are in large numbers would be your best neighborhood to establish your unit.</p>
-###### Accessibility:
+##### Accessibility:
 <p>Remember, if your store isn’t easily accessible, you’ll often lose your customers to competition. Think back to your target consumer and how they will get to your location. We will consider the distance of coffee shop from nearby business units. For coffee shops that target customers walking to or from another destination, street visibility might be more important.
 Considering  all above problems, we can create a map and information chart where opening coffee shop unit would be profitable on specify district.</p>
 ##### A.2. Data Description
