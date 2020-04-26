@@ -2,8 +2,13 @@
 #### A.1. Description & Disscusion of the Background
 India is the 2nd largest populous country and one of the most dense country in world. I have decide to use the Capital of India, Delhi in my project. Delhi is divided into eleven revenue districts. Delhi covers a large area, totaling around 1,484 square kilometers. The city has a population density of 29,259.12 people per square mile, which is one of the highest in the world.
 Being such a dense city, Opening a coffee shop can be extremely profitable if you do it right, To find the right business location, you have to think beyond rent prices and physical space. 
+
+Target Audience will be the people or business man looking for perfect place to open coffee shop in Delhi, India locality.
+
 </br>
-Three most important things to consider when selecting a coffee location are:       
+Three most important things to consider when selecting a coffee location are:    
+
+
 ##### Demographics: 
 We need to understand why coffee shops are so popular. First of all, coffee shops are great places to socialize. Coffee shops are the most popular place to meet friends. They are also a preferred spot for individuals looking to pass the time reading a book, magazine, surfing the web while enjoying a beverage and snack. It is also a popular place for informal business meetings or for students. Geographical location for any business units are same as coffee, relatively crucial point for making or breaking of profitable business.   
 ##### Neighboring businesses:
