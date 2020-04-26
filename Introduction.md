@@ -10,10 +10,10 @@ We need to understand why coffee shops are so popular. First of all, coffee shop
 When you’re determining the best location for a coffee shop, neighboring businesses can also affect your profitability — both negatively and positively.
 It might be obvious to research other local coffee shops to find out where they are established and the total count in your selected location. Neighboring businesses can also help your coffee shop by complementing your offerings. University, Shopping malls ,Theaters, Stadium,  Metro station or other business units where the footprints count are in large numbers would be your best neighborhood to establish your unit.
 
-
 ##### Accessibility:
-<p>Remember, if your store isn’t easily accessible, you’ll often lose your customers to competition. Think back to your target consumer and how they will get to your location. We will consider the distance of coffee shop from nearby business units. For coffee shops that target customers walking to or from another destination, street visibility might be more important.
-Considering  all above problems, we can create a map and information chart where opening coffee shop unit would be profitable on specify district.</p>
+Remember, if your store isn’t easily accessible, you’ll often lose your customers to competition. Think back to your target consumer and how they will get to your location. We will consider the distance of coffee shop from nearby business units. For coffee shops that target customers walking to or from another destination, street visibility might be more important.
+Considering  all above problems, we can create a map and information chart where opening coffee shop unit would be profitable on specify district.
+  
 ##### A.2. Data Description
 
 - Look for places where population density is more relative to other place in same district and are present in commercial or market area.
